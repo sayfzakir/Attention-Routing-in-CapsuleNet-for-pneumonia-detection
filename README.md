@@ -1,0 +1,4 @@
+# Attention-Capsule-Routing-for-Pneumonia
+<p> Through the Attention Routing mechanism in Capsule Routing, we are able to achieve accuracy, precision and recall scores of 98.98, 99 and 99 respectively for the Pneumonia identification from Chest X-ray image task. To improve the performance when compared to traditional Convolutional Networks we adopted the use of Capsule Network as it takes into account the spatial configuration of lesions in the X-ray images. Since only capsules in the same spatial location are compared while implementing attention routing, Attention Routing Capsnet provides a good way to route between capsules. The attention mechanism helps reduce computation time and space drastically by focusing on the required segments in the images. </p>
+<p> Dataset used: https://data.mendeley.com/datasets/rscbjbr9sj/2 </p>
+<p> Dataset citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5 </p>
